@@ -1,0 +1,5 @@
+satelite KEYWORD1
+iniciarSatelite KEYWORD2
+calcularPosicion KEYWORD2
+esVisibleSatelite KEYWORD2
+sateliteCerca KEYWORD2
